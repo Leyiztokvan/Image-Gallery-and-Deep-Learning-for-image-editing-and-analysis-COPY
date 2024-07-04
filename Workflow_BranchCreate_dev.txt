@@ -1,0 +1,26 @@
+# Pull latest version
+git checkout main
+git pull origin main
+
+# Create a new branch
+git checkout -b <name_of_branch>
+
+# Commit Changes
+git add <file>
+git commit -m "message"
+
+# Push Changes to GitHub
+git push origin <name_of_branch>
+
+# Create Pull request
+Go to GitHub and click "Compare and pull request" prompt
+
+# Review & Merge
+
+# Pull Changes into Main
+git checkout main
+git pull origin main
+
+# Delete Branch
+git branch -d <name_of_branch>
+git push origin --delete <name_of_branch>

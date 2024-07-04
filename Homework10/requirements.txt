@@ -1,0 +1,8 @@
+torch
+torchvision
+numpy
+matplotlib
+tqdm
+pillow
+
+conda install torch torchvision numpy matplotlib tqdm pillow

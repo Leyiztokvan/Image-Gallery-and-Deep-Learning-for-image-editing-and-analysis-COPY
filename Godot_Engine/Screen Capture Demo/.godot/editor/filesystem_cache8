@@ -1,0 +1,7 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1720015337
+icon.webp::CompressedTexture2D::3626017087650301524::1720015331::1720015338::1::::<><>::
+mountains.png::CompressedTexture2D::1347352816077454597::1720015331::1720015338::1::::<><>::
+README.md::TextFile::-1::1720015331::0::1::::<><>::
+screen_capture.gd::GDScript::-1::1720015331::0::1::::<>Node<>::
+screen_capture.tscn::PackedScene::9036547748197540493::1720015331::0::1::::<><>::res://screen_capture.gd<>uid://tgwx64g0plcn::::res://mountains.png

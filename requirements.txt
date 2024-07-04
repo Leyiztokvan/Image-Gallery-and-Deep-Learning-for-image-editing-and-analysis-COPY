@@ -1,0 +1,9 @@
+torch
+torchvision
+numpy
+matplotlib
+tqdm
+pillow
+
+# Only if you want to do this via conda. We recommend using pip as mentioned in the README.md guide.
+# conda install torch torchvision numpy matplotlib tqdm pillow
